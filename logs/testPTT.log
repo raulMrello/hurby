@@ -1,0 +1,2907 @@
+
+Starting...
+Hurby is ready!
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =0sec
+    tsld =0sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=0.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=65.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=0sec
+    modul=50.000000
+    weight=100.000000
+    level=50.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=0sec
+    modul=50.000000
+    weight=0.000000
+    level=50.000000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=0sec
+    modul=50.000000
+    weight=0.000000
+    level=0.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=5, speed=1, percent=0.958000
+    Ears pos=2, speed=1, percent=0.774000
+    Feet pos=3, speed=1, percent=0.348000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=7, speed=1, percent=0.519000
+    Ears pos=0, speed=1, percent=0.441000
+    Feet pos=1, speed=1, percent=0.910000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=3, speed=1, percent=0.605000
+    Ears pos=2, speed=1, percent=0.858000
+    Feet pos=0, speed=1, percent=0.856000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=6, speed=1, percent=0.896000
+    Ears pos=1, speed=1, percent=0.114000
+    Feet pos=2, speed=1, percent=0.052000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=3, speed=1, percent=0.963000
+    Ears pos=1, speed=1, percent=0.322000
+    Feet pos=0, speed=1, percent=0.622000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =20sec
+    tsld =20sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=50.000000
+    Frustation=50.000000
+    Boredom=0.000000
+    Level=65.000000
+
+SATIATION_RUN
+    tslp=20sec
+    ptt=0sec
+    modul=65.000000
+    weight=100.000000
+    level=50.000004
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=20sec
+    modul=65.000000
+    weight=0.000000
+    level=41.666668
+
+BOREDOM_RUN
+    tslp=20sec
+    tsld=20sec
+    modul=65.000000
+    weight=16.666668
+    level=16.666668
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=4, speed=1, percent=0.279000
+    Ears pos=0, speed=1, percent=0.213000
+    Feet pos=0, speed=1, percent=0.912000
+Talking code=0 sound_id=2
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=5, speed=1, percent=0.637000
+    Ears pos=1, speed=1, percent=0.544000
+    Feet pos=0, speed=1, percent=0.703000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=6, speed=1, percent=0.696000
+    Ears pos=2, speed=1, percent=0.807000
+    Feet pos=0, speed=1, percent=0.214000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=2, speed=1, percent=0.349000
+    Ears pos=0, speed=1, percent=0.687000
+    Feet pos=0, speed=1, percent=0.629000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=1, speed=1, percent=0.469000
+    Ears pos=1, speed=1, percent=0.767000
+    Feet pos=1, speed=1, percent=0.604000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=4, speed=1, percent=0.329000
+    Ears pos=1, speed=1, percent=0.920000
+    Feet pos=1, speed=1, percent=0.435000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =40sec
+    tsld =40sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=50.000004
+    Frustation=41.666668
+    Boredom=16.666668
+    Level=68.000000
+
+SATIATION_RUN
+    tslp=40sec
+    ptt=0sec
+    modul=65.000000
+    weight=100.000000
+    level=50.000004
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=40sec
+    modul=65.000000
+    weight=0.000000
+    level=33.333336
+
+BOREDOM_RUN
+    tslp=40sec
+    tsld=40sec
+    modul=65.000000
+    weight=33.333336
+    level=33.333336
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=0, speed=1, percent=0.660000
+    Ears pos=2, speed=1, percent=0.801000
+    Feet pos=0, speed=1, percent=0.541000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=3, speed=1, percent=0.277000
+    Ears pos=1, speed=1, percent=0.184000
+    Feet pos=4, speed=1, percent=0.623000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=4, speed=1, percent=0.892000
+    Ears pos=2, speed=1, percent=0.922000
+    Feet pos=0, speed=1, percent=0.685000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=1, percent=0.027000
+    Ears pos=0, speed=1, percent=0.564000
+    Feet pos=4, speed=1, percent=0.899000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=7, speed=1, percent=0.089000
+    Ears pos=0, speed=1, percent=0.690000
+    Feet pos=2, speed=1, percent=0.101000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =60sec
+    tsld =60sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=50.000004
+    Frustation=33.333336
+    Boredom=33.333336
+    Level=73.000000
+
+SATIATION_RUN
+    tslp=60sec
+    ptt=0sec
+    modul=68.000000
+    weight=100.000000
+    level=50.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=60sec
+    modul=68.000000
+    weight=0.000000
+    level=25.000000
+
+BOREDOM_RUN
+    tslp=60sec
+    tsld=60sec
+    modul=68.000000
+    weight=50.000000
+    level=50.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=1, speed=2, percent=0.280000
+    Ears pos=0, speed=2, percent=0.013000
+    Feet pos=0, speed=2, percent=0.478000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=4, speed=2, percent=0.215000
+    Ears pos=1, speed=2, percent=0.461000
+    Feet pos=1, speed=2, percent=0.685000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=7, speed=2, percent=0.672000
+    Ears pos=2, speed=2, percent=0.155000
+    Feet pos=0, speed=2, percent=0.562000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=4, speed=2, percent=0.790000
+    Ears pos=2, speed=2, percent=0.598000
+    Feet pos=2, speed=2, percent=0.739000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =80sec
+    tsld =80sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=50.000000
+    Frustation=25.000000
+    Boredom=50.000000
+    Level=73.000000
+
+SATIATION_RUN
+    tslp=80sec
+    ptt=0sec
+    modul=73.000000
+    weight=100.000000
+    level=33.333336
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=80sec
+    modul=73.000000
+    weight=0.000000
+    level=16.666668
+
+BOREDOM_RUN
+    tslp=80sec
+    tsld=80sec
+    modul=73.000000
+    weight=50.000004
+    level=50.000004
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=2, speed=2, percent=0.762000
+    Ears pos=2, speed=2, percent=0.084000
+    Feet pos=3, speed=2, percent=0.008000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=6, speed=2, percent=0.124000
+    Ears pos=0, speed=2, percent=0.198000
+    Feet pos=4, speed=2, percent=0.534000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=2, percent=0.720000
+    Ears pos=0, speed=2, percent=0.143000
+    Feet pos=2, speed=2, percent=0.094000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=1, speed=2, percent=0.696000
+    Ears pos=0, speed=2, percent=0.968000
+    Feet pos=0, speed=2, percent=0.156000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=2, speed=2, percent=0.102000
+    Ears pos=1, speed=2, percent=0.185000
+    Feet pos=2, speed=2, percent=0.283000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =100sec
+    tsld =100sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=33.333336
+    Frustation=16.666668
+    Boredom=50.000004
+    Level=68.000000
+
+SATIATION_RUN
+    tslp=100sec
+    ptt=0sec
+    modul=73.000000
+    weight=66.666672
+    level=16.666668
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=100sec
+    modul=73.000000
+    weight=0.000000
+    level=8.333332
+
+BOREDOM_RUN
+    tslp=100sec
+    tsld=100sec
+    modul=73.000000
+    weight=62.500008
+    level=62.500008
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=4, speed=1, percent=0.226000
+    Ears pos=1, speed=1, percent=0.081000
+    Feet pos=1, speed=1, percent=0.138000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=3, speed=1, percent=0.525000
+    Ears pos=1, speed=1, percent=0.013000
+    Feet pos=0, speed=1, percent=0.390000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=4, speed=1, percent=0.402000
+    Ears pos=0, speed=1, percent=0.726000
+    Feet pos=2, speed=1, percent=0.080000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=3, speed=1, percent=0.254000
+    Ears pos=2, speed=1, percent=0.962000
+    Feet pos=3, speed=1, percent=0.098000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =120sec
+    tsld =120sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=16.666668
+    Frustation=8.333332
+    Boredom=62.500008
+    Level=54.250000
+
+SATIATION_RUN
+    tslp=120sec
+    ptt=0sec
+    modul=68.000000
+    weight=0.000000
+    level=0.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=120sec
+    modul=68.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=120sec
+    tsld=120sec
+    modul=68.000000
+    weight=100.000000
+    level=100.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=0, speed=2, percent=0.209000
+    Ears pos=1, speed=2, percent=0.179000
+    Feet pos=0, speed=2, percent=0.484000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=7, speed=2, percent=0.617000
+    Ears pos=2, speed=2, percent=0.710000
+    Feet pos=0, speed=2, percent=0.292000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=2, speed=2, percent=0.450000
+    Ears pos=0, speed=2, percent=0.431000
+    Feet pos=2, speed=2, percent=0.832000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=1, speed=2, percent=0.096000
+    Ears pos=1, speed=2, percent=0.209000
+    Feet pos=1, speed=2, percent=0.398000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =140sec
+    tsld =140sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=0.000000
+    Frustation=0.000000
+    Boredom=100.000000
+    Level=24.250000
+
+SATIATION_RUN
+    tslp=140sec
+    ptt=0sec
+    modul=54.250000
+    weight=0.000000
+    level=0.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=140sec
+    modul=54.250000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=140sec
+    tsld=140sec
+    modul=54.250000
+    weight=100.000000
+    level=100.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=7, speed=1, percent=0.139000
+    Ears pos=0, speed=1, percent=0.687000
+    Feet pos=0, speed=1, percent=0.658000
+Talking code=0 sound_id=2
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=3, speed=1, percent=0.544000
+    Ears pos=1, speed=1, percent=0.549000
+    Feet pos=1, speed=1, percent=0.207000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=1, percent=0.429000
+    Ears pos=1, speed=1, percent=0.023000
+    Feet pos=1, speed=1, percent=0.489000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=5, speed=1, percent=0.732000
+    Ears pos=1, speed=1, percent=0.390000
+    Feet pos=4, speed=1, percent=0.180000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=2, speed=1, percent=0.559000
+    Ears pos=1, speed=1, percent=0.467000
+    Feet pos=3, speed=1, percent=0.093000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=1, speed=1, percent=0.296000
+    Ears pos=0, speed=1, percent=0.185000
+    Feet pos=0, speed=1, percent=0.094000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =160sec
+    tsld =160sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=0.000000
+    Frustation=0.000000
+    Boredom=100.000000
+    Level=0.000000
+
+SATIATION_RUN
+    tslp=160sec
+    ptt=0sec
+    modul=24.250000
+    weight=0.000000
+    level=0.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=160sec
+    modul=24.250000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=160sec
+    tsld=160sec
+    modul=24.250000
+    weight=100.000000
+    level=100.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=5, speed=0, percent=0.783000
+    Ears pos=0, speed=0, percent=0.052000
+    Feet pos=4, speed=0, percent=0.199000
+Talking code=0 sound_id=2
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=4, speed=0, percent=0.147000
+    Ears pos=1, speed=0, percent=0.888000
+    Feet pos=2, speed=0, percent=0.628000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=6, speed=0, percent=0.814000
+    Ears pos=0, speed=0, percent=0.086000
+    Feet pos=3, speed=0, percent=0.723000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=5, speed=0, percent=0.675000
+    Ears pos=0, speed=0, percent=0.208000
+    Feet pos=3, speed=0, percent=0.001000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=4, speed=0, percent=0.116000
+    Ears pos=1, speed=0, percent=0.385000
+    Feet pos=3, speed=0, percent=0.999000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =180sec
+    tsld =180sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=0.000000
+    Frustation=0.000000
+    Boredom=100.000000
+    Level=0.000000
+
+SATIATION_RUN
+    tslp=180sec
+    ptt=0sec
+    modul=0.000000
+    weight=0.000000
+    level=0.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=180sec
+    modul=0.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=180sec
+    tsld=180sec
+    modul=0.000000
+    weight=100.000000
+    level=100.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=6, speed=0, percent=0.542000
+    Ears pos=1, speed=0, percent=0.498000
+    Feet pos=1, speed=0, percent=0.072000
+Talking code=0 sound_id=2
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=0, percent=0.935000
+    Ears pos=2, speed=0, percent=0.034000
+    Feet pos=2, speed=0, percent=0.397000
+
+SENSORY_TOUCH
+
+SENSORY_TIMEOUT
+    EVENT =1
+    tslp =0sec
+    tsld =188sec
+    ptt  =6sec
+
+HAPPINESS_RUN
+    Satiation=0.000000
+    Frustation=0.000000
+    Boredom=100.000000
+    Level=0.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=6sec
+    modul=0.000000
+    weight=100.000000
+    level=60.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=188sec
+    modul=0.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=188sec
+    modul=0.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TOUCH
+
+HAPPINESS_RUN
+    Satiation=60.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=18.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=1sec
+    modul=0.000000
+    weight=100.000000
+    level=51.666664
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=188sec
+    modul=0.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=188sec
+    modul=0.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TIMEOUT_WAIT
+    EVENT =1
+    tslp =1sec
+    tsld =189sec
+    ptt  =1sec
+
+HAPPINESS_RUN
+    Satiation=51.666664
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=33.500000
+
+SATIATION_RUN
+    tslp=1sec
+    ptt=1sec
+    modul=18.000000
+    weight=100.000000
+    level=51.666664
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=189sec
+    modul=18.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=1sec
+    tsld=189sec
+    modul=18.000000
+    weight=0.000000
+    level=0.000000
+
+MOTORCORTEX_RUN
+    Action=2
+    Eyes pos=2, speed=0, percent=0.930000
+    Ears pos=0, speed=0, percent=0.605000
+    Feet pos=4, speed=0, percent=0.105000
+Talking code=0 sound_id=2
+
+SENSORY_TOUCH
+
+SENSORY_TIMEOUT
+    EVENT =1
+    tslp =6sec
+    tsld =194sec
+    ptt  =6sec
+
+HAPPINESS_RUN
+    Satiation=51.666664
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=49.000000
+
+SATIATION_RUN
+    tslp=6sec
+    ptt=6sec
+    modul=33.500000
+    weight=100.000000
+    level=60.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=194sec
+    modul=33.500000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=6sec
+    tsld=194sec
+    modul=33.500000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TOUCH
+
+HAPPINESS_RUN
+    Satiation=60.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=67.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=6sec
+    modul=49.000000
+    weight=100.000000
+    level=60.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=194sec
+    modul=49.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=194sec
+    modul=49.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TIMEOUT_WAIT
+    EVENT =1
+    tslp =6sec
+    tsld =194sec
+    ptt  =6sec
+
+HAPPINESS_RUN
+    Satiation=60.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=85.000000
+
+SATIATION_RUN
+    tslp=6sec
+    ptt=6sec
+    modul=67.000000
+    weight=100.000000
+    level=60.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=194sec
+    modul=67.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=6sec
+    tsld=194sec
+    modul=67.000000
+    weight=0.000000
+    level=0.000000
+
+MOTORCORTEX_RUN
+    Action=2
+    Eyes pos=7, speed=2, percent=0.695000
+    Ears pos=1, speed=2, percent=0.791000
+    Feet pos=0, speed=2, percent=0.525000
+Talking code=0 sound_id=2
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=5, speed=2, percent=0.357000
+    Ears pos=0, speed=2, percent=0.099000
+    Feet pos=0, speed=2, percent=0.465000
+
+SENSORY_TOUCH
+
+SENSORY_TIMEOUT
+    EVENT =1
+    tslp =12sec
+    tsld =200sec
+    ptt  =12sec
+
+HAPPINESS_RUN
+    Satiation=60.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=12sec
+    ptt=12sec
+    modul=85.000000
+    weight=100.000000
+    level=70.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=200sec
+    modul=85.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=12sec
+    tsld=200sec
+    modul=85.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TOUCH
+
+HAPPINESS_RUN
+    Satiation=70.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=12sec
+    modul=100.000000
+    weight=100.000000
+    level=70.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=200sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=200sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TIMEOUT_WAIT
+    EVENT =1
+    tslp =12sec
+    tsld =200sec
+    ptt  =12sec
+
+HAPPINESS_RUN
+    Satiation=70.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=12sec
+    ptt=12sec
+    modul=100.000000
+    weight=100.000000
+    level=70.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=200sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=12sec
+    tsld=200sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+MOTORCORTEX_RUN
+    Action=2
+    Eyes pos=2, speed=2, percent=0.616000
+    Ears pos=2, speed=2, percent=0.945000
+    Feet pos=0, speed=2, percent=0.969000
+
+SENSORY_TOUCH
+
+SENSORY_TIMEOUT
+    EVENT =1
+    tslp =18sec
+    tsld =206sec
+    ptt  =18sec
+
+HAPPINESS_RUN
+    Satiation=70.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=18sec
+    ptt=18sec
+    modul=100.000000
+    weight=100.000000
+    level=80.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=206sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=18sec
+    tsld=206sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TOUCH
+
+HAPPINESS_RUN
+    Satiation=80.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=18sec
+    modul=100.000000
+    weight=100.000000
+    level=80.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=206sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=206sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TIMEOUT_WAIT
+    EVENT =1
+    tslp =18sec
+    tsld =206sec
+    ptt  =18sec
+
+HAPPINESS_RUN
+    Satiation=80.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=18sec
+    ptt=18sec
+    modul=100.000000
+    weight=100.000000
+    level=80.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=206sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=18sec
+    tsld=206sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+MOTORCORTEX_RUN
+    Action=2
+    Eyes pos=0, speed=2, percent=0.429000
+    Ears pos=1, speed=2, percent=0.755000
+    Feet pos=3, speed=2, percent=0.216000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=1, speed=2, percent=0.739000
+    Ears pos=0, speed=2, percent=0.268000
+    Feet pos=0, speed=2, percent=0.191000
+
+SENSORY_TOUCH
+
+SENSORY_TIMEOUT
+    EVENT =1
+    tslp =25sec
+    tsld =213sec
+    ptt  =25sec
+
+HAPPINESS_RUN
+    Satiation=80.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=25sec
+    ptt=25sec
+    modul=100.000000
+    weight=100.000000
+    level=79.166664
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=213sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=25sec
+    tsld=213sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TOUCH
+
+HAPPINESS_RUN
+    Satiation=79.166664
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=25sec
+    modul=100.000000
+    weight=100.000000
+    level=91.666664
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=213sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=213sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TIMEOUT_WAIT
+    EVENT =1
+    tslp =25sec
+    tsld =213sec
+    ptt  =25sec
+
+HAPPINESS_RUN
+    Satiation=91.666664
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=25sec
+    ptt=25sec
+    modul=100.000000
+    weight=100.000000
+    level=79.166664
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=213sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=25sec
+    tsld=213sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TOUCH
+
+SENSORY_TIMEOUT
+    EVENT =1
+    tslp =27sec
+    tsld =215sec
+    ptt  =27sec
+
+HAPPINESS_RUN
+    Satiation=79.166664
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=27sec
+    ptt=27sec
+    modul=100.000000
+    weight=100.000000
+    level=77.500000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=215sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=27sec
+    tsld=215sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TOUCH
+
+HAPPINESS_RUN
+    Satiation=77.500000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=27sec
+    modul=100.000000
+    weight=100.000000
+    level=95.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=215sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=215sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TIMEOUT_WAIT
+    EVENT =1
+    tslp =27sec
+    tsld =215sec
+    ptt  =27sec
+
+HAPPINESS_RUN
+    Satiation=95.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=27sec
+    ptt=27sec
+    modul=100.000000
+    weight=100.000000
+    level=77.500000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=215sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=27sec
+    tsld=215sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+MOTORCORTEX_RUN
+    Action=5
+    Eyes pos=3, speed=2, percent=0.125000
+    Ears pos=2, speed=2, percent=0.604000
+    Feet pos=0, speed=2, percent=0.161000
+
+SENSORY_TOUCH
+
+SENSORY_TIMEOUT
+    EVENT =1
+    tslp =30sec
+    tsld =218sec
+    ptt  =30sec
+
+HAPPINESS_RUN
+    Satiation=77.500000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=30sec
+    ptt=30sec
+    modul=100.000000
+    weight=100.000000
+    level=75.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=218sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=30sec
+    tsld=218sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TOUCH
+
+HAPPINESS_RUN
+    Satiation=75.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=30sec
+    modul=100.000000
+    weight=100.000000
+    level=100.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=218sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=218sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TIMEOUT_WAIT
+    EVENT =1
+    tslp =30sec
+    tsld =218sec
+    ptt  =30sec
+
+HAPPINESS_RUN
+    Satiation=100.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=30sec
+    ptt=30sec
+    modul=100.000000
+    weight=100.000000
+    level=75.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=218sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=30sec
+    tsld=218sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+MOTORCORTEX_RUN
+    Action=2
+    Eyes pos=1, speed=2, percent=0.811000
+    Ears pos=0, speed=2, percent=0.726000
+    Feet pos=0, speed=2, percent=0.307000
+
+SENSORY_TOUCH
+
+SENSORY_TIMEOUT
+    EVENT =1
+    tslp =34sec
+    tsld =222sec
+    ptt  =34sec
+
+HAPPINESS_RUN
+    Satiation=75.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=34sec
+    ptt=34sec
+    modul=100.000000
+    weight=100.000000
+    level=71.666664
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=222sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=34sec
+    tsld=222sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TOUCH
+
+HAPPINESS_RUN
+    Satiation=71.666664
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=34sec
+    modul=100.000000
+    weight=100.000000
+    level=99.999992
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=222sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=222sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TIMEOUT_WAIT
+    EVENT =1
+    tslp =34sec
+    tsld =222sec
+    ptt  =34sec
+
+HAPPINESS_RUN
+    Satiation=99.999992
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=34sec
+    ptt=34sec
+    modul=100.000000
+    weight=100.000000
+    level=71.666664
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=222sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=34sec
+    tsld=222sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+MOTORCORTEX_RUN
+    Action=2
+    Eyes pos=0, speed=2, percent=0.038000
+    Ears pos=1, speed=2, percent=0.089000
+    Feet pos=0, speed=2, percent=0.181000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=4, speed=2, percent=0.660000
+    Ears pos=1, speed=2, percent=0.128000
+    Feet pos=0, speed=2, percent=0.585000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=3, speed=2, percent=0.640000
+    Ears pos=0, speed=2, percent=0.425000
+    Feet pos=0, speed=2, percent=0.038000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=2, speed=2, percent=0.763000
+    Ears pos=1, speed=2, percent=0.244000
+    Feet pos=4, speed=2, percent=0.467000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=4, speed=2, percent=0.923000
+    Ears pos=0, speed=2, percent=0.913000
+    Feet pos=0, speed=2, percent=0.239000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =54sec
+    tsld =242sec
+    ptt  =34sec
+
+HAPPINESS_RUN
+    Satiation=71.666664
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=54sec
+    ptt=34sec
+    modul=100.000000
+    weight=100.000000
+    level=56.666664
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=242sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=54sec
+    tsld=242sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=2, speed=2, percent=0.701000
+    Ears pos=0, speed=2, percent=0.260000
+    Feet pos=1, speed=2, percent=0.895000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=4, speed=2, percent=0.116000
+    Ears pos=1, speed=2, percent=0.425000
+    Feet pos=0, speed=2, percent=0.938000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=2, speed=2, percent=0.109000
+    Ears pos=1, speed=2, percent=0.191000
+    Feet pos=0, speed=2, percent=0.542000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=1, speed=2, percent=0.947000
+    Ears pos=0, speed=2, percent=0.832000
+    Feet pos=3, speed=2, percent=0.621000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=8, speed=2, percent=0.476000
+    Ears pos=2, speed=2, percent=0.759000
+    Feet pos=4, speed=2, percent=0.966000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =74sec
+    tsld =262sec
+    ptt  =34sec
+
+HAPPINESS_RUN
+    Satiation=56.666664
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=74sec
+    ptt=34sec
+    modul=100.000000
+    weight=100.000000
+    level=57.407406
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=262sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=74sec
+    tsld=262sec
+    modul=100.000000
+    weight=23.333334
+    level=23.333334
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=2, speed=2, percent=0.079000
+    Ears pos=1, speed=2, percent=0.301000
+    Feet pos=1, speed=2, percent=0.950000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=2, percent=0.946000
+    Ears pos=1, speed=2, percent=0.182000
+    Feet pos=0, speed=2, percent=0.185000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=2, speed=2, percent=0.440000
+    Ears pos=2, speed=2, percent=0.767000
+    Feet pos=4, speed=2, percent=0.436000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=6, speed=2, percent=0.679000
+    Ears pos=1, speed=2, percent=0.641000
+    Feet pos=4, speed=2, percent=0.294000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=2, percent=0.126000
+    Ears pos=1, speed=2, percent=0.286000
+    Feet pos=0, speed=2, percent=0.880000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =94sec
+    tsld =282sec
+    ptt  =34sec
+
+HAPPINESS_RUN
+    Satiation=57.407406
+    Frustation=0.000000
+    Boredom=23.333334
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=94sec
+    ptt=34sec
+    modul=100.000000
+    weight=86.666664
+    level=59.523811
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=282sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=94sec
+    tsld=282sec
+    modul=100.000000
+    weight=56.666668
+    level=56.666668
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=8, speed=2, percent=0.176000
+    Ears pos=2, speed=2, percent=0.910000
+    Feet pos=1, speed=2, percent=0.377000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=5, speed=2, percent=0.292000
+    Ears pos=0, speed=2, percent=0.670000
+    Feet pos=0, speed=2, percent=0.452000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=2, percent=0.546000
+    Ears pos=2, speed=2, percent=0.442000
+    Feet pos=0, speed=2, percent=0.215000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=2, speed=2, percent=0.487000
+    Ears pos=1, speed=2, percent=0.895000
+    Feet pos=1, speed=2, percent=0.208000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=2, percent=0.739000
+    Ears pos=1, speed=2, percent=0.376000
+    Feet pos=4, speed=2, percent=0.395000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =114sec
+    tsld =302sec
+    ptt  =34sec
+
+HAPPINESS_RUN
+    Satiation=59.523811
+    Frustation=0.000000
+    Boredom=56.666668
+    Level=95.878784
+
+SATIATION_RUN
+    tslp=114sec
+    ptt=34sec
+    modul=100.000000
+    weight=20.000000
+    level=55.172409
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=302sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=114sec
+    tsld=302sec
+    modul=100.000000
+    weight=90.000000
+    level=90.000000
+
+MOTORCORTEX_RUN
+    Action=1
+    Eyes pos=1, speed=2, percent=0.442000
+    Ears pos=0, speed=2, percent=0.746000
+    Feet pos=3, speed=2, percent=0.572000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=3, speed=2, percent=0.491000
+    Ears pos=2, speed=2, percent=0.970000
+    Feet pos=4, speed=2, percent=0.910000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=2, speed=2, percent=0.075000
+    Ears pos=0, speed=2, percent=0.869000
+    Feet pos=1, speed=2, percent=0.898000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=3, speed=2, percent=0.057000
+    Ears pos=0, speed=2, percent=0.725000
+    Feet pos=0, speed=2, percent=0.016000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =134sec
+    tsld =322sec
+    ptt  =34sec
+
+HAPPINESS_RUN
+    Satiation=55.172409
+    Frustation=0.000000
+    Boredom=90.000000
+    Level=71.878784
+
+SATIATION_RUN
+    tslp=134sec
+    ptt=34sec
+    modul=95.878784
+    weight=0.000000
+    level=49.999996
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=322sec
+    modul=95.878784
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=134sec
+    tsld=322sec
+    modul=95.878784
+    weight=100.000000
+    level=100.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=8, speed=2, percent=0.903000
+    Ears pos=2, speed=2, percent=0.468000
+    Feet pos=4, speed=2, percent=0.901000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=5, speed=2, percent=0.891000
+    Ears pos=2, speed=2, percent=0.268000
+    Feet pos=4, speed=2, percent=0.440000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=6, speed=2, percent=0.692000
+    Ears pos=2, speed=2, percent=0.734000
+    Feet pos=4, speed=2, percent=0.936000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=2, percent=0.191000
+    Ears pos=1, speed=2, percent=0.407000
+    Feet pos=0, speed=2, percent=0.990000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =154sec
+    tsld =342sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=49.999996
+    Frustation=0.000000
+    Boredom=100.000000
+    Level=41.878784
+
+SATIATION_RUN
+    tslp=154sec
+    ptt=0sec
+    modul=71.878784
+    weight=0.000000
+    level=0.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=342sec
+    modul=71.878784
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=154sec
+    tsld=342sec
+    modul=71.878784
+    weight=100.000000
+    level=100.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=2, speed=2, percent=0.342000
+    Ears pos=2, speed=2, percent=0.991000
+    Feet pos=3, speed=2, percent=0.814000
+Talking code=0 sound_id=2
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=3, speed=2, percent=0.963000
+    Ears pos=0, speed=2, percent=0.474000
+    Feet pos=0, speed=2, percent=0.588000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=2, speed=2, percent=0.299000
+    Ears pos=1, speed=2, percent=0.131000
+    Feet pos=1, speed=2, percent=0.875000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=3, speed=2, percent=0.226000
+    Ears pos=1, speed=2, percent=0.271000
+    Feet pos=0, speed=2, percent=0.439000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=2, percent=0.407000
+    Ears pos=2, speed=2, percent=0.777000
+    Feet pos=4, speed=2, percent=0.816000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =174sec
+    tsld =362sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=0.000000
+    Frustation=0.000000
+    Boredom=100.000000
+    Level=11.878784
+
+SATIATION_RUN
+    tslp=174sec
+    ptt=0sec
+    modul=41.878784
+    weight=0.000000
+    level=0.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=362sec
+    modul=41.878784
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=174sec
+    tsld=362sec
+    modul=41.878784
+    weight=100.000000
+    level=100.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=4, speed=1, percent=0.786000
+    Ears pos=0, speed=1, percent=0.201000
+    Feet pos=3, speed=1, percent=0.909000
+Talking code=0 sound_id=2
+
+SENSORY_HURT
+    EVENT =4
+    tslp =174sec
+    tsld =362sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=0.000000
+    Frustation=0.000000
+    Boredom=100.000000
+    Level=0.000000
+
+SATIATION_RUN
+    tslp=174sec
+    ptt=0sec
+    modul=11.878784
+    weight=0.000000
+    level=0.000000
+
+FRUSTATION_RUN
+    tlu=5sec
+    tsll=0sec
+    modul=11.878784
+    weight=50.000000
+    level=75.000000
+
+BOREDOM_RUN
+    tslp=174sec
+    tsld=362sec
+    modul=11.878784
+    weight=100.000000
+    level=100.000000
+
+SENSORY_HURT
+
+HAPPINESS_RUN
+    Satiation=0.000000
+    Frustation=75.000000
+    Boredom=100.000000
+    Level=0.000000
+
+SATIATION_RUN
+    tslp=174sec
+    ptt=0sec
+    modul=0.000000
+    weight=0.000000
+    level=0.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=0sec
+    modul=0.000000
+    weight=0.000000
+    level=50.000000
+
+BOREDOM_RUN
+    tslp=174sec
+    tsld=362sec
+    modul=0.000000
+    weight=100.000000
+    level=100.000000
+    EVENT =4
+    tslp =174sec
+    tsld =362sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=0.000000
+    Frustation=50.000000
+    Boredom=100.000000
+    Level=0.000000
+
+SATIATION_RUN
+    tslp=174sec
+    ptt=0sec
+    modul=0.000000
+    weight=0.000000
+    level=0.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=0sec
+    modul=0.000000
+    weight=0.000000
+    level=50.000000
+
+BOREDOM_RUN
+    tslp=174sec
+    tsld=362sec
+    modul=0.000000
+    weight=100.000000
+    level=100.000000
+
+SENSORY_HURT
+
+HAPPINESS_RUN
+    Satiation=0.000000
+    Frustation=50.000000
+    Boredom=100.000000
+    Level=0.000000
+
+SATIATION_RUN
+    tslp=174sec
+    ptt=0sec
+    modul=0.000000
+    weight=0.000000
+    level=0.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=0sec
+    modul=0.000000
+    weight=0.000000
+    level=50.000000
+
+BOREDOM_RUN
+    tslp=174sec
+    tsld=362sec
+    modul=0.000000
+    weight=100.000000
+    level=100.000000
+    EVENT =4
+    tslp =174sec
+    tsld =362sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=0.000000
+    Frustation=50.000000
+    Boredom=100.000000
+    Level=0.000000
+
+SATIATION_RUN
+    tslp=174sec
+    ptt=0sec
+    modul=0.000000
+    weight=0.000000
+    level=0.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=0sec
+    modul=0.000000
+    weight=0.000000
+    level=50.000000
+
+BOREDOM_RUN
+    tslp=174sec
+    tsld=362sec
+    modul=0.000000
+    weight=100.000000
+    level=100.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=1, speed=0, percent=0.428000
+    Ears pos=2, speed=0, percent=0.615000
+    Feet pos=2, speed=0, percent=0.888000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=8, speed=0, percent=0.213000
+    Ears pos=1, speed=0, percent=0.885000
+    Feet pos=4, speed=0, percent=0.868000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=5, speed=0, percent=0.299000
+    Ears pos=0, speed=0, percent=0.631000
+    Feet pos=4, speed=0, percent=0.087000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=0, percent=0.826000
+    Ears pos=0, speed=0, percent=0.604000
+    Feet pos=4, speed=0, percent=0.078000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =339sec
+    tsld =527sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=0.000000
+    Frustation=26.250000
+    Boredom=100.000000
+    Level=0.000000
+
+SATIATION_RUN
+    tslp=339sec
+    ptt=0sec
+    modul=0.000000
+    weight=0.000000
+    level=0.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=77sec
+    modul=0.000000
+    weight=0.000000
+    level=17.916668
+
+BOREDOM_RUN
+    tslp=339sec
+    tsld=527sec
+    modul=0.000000
+    weight=100.000000
+    level=100.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=4, speed=0, percent=0.308000
+    Ears pos=2, speed=0, percent=0.468000
+    Feet pos=2, speed=0, percent=0.099000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=0, percent=0.773000
+    Ears pos=1, speed=0, percent=0.795000
+    Feet pos=4, speed=0, percent=0.800000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=4, speed=0, percent=0.370000
+    Ears pos=1, speed=0, percent=0.370000
+    Feet pos=4, speed=0, percent=0.574000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=3, speed=0, percent=0.337000
+    Ears pos=2, speed=0, percent=0.708000
+    Feet pos=3, speed=0, percent=0.164000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=0, percent=0.246000
+    Ears pos=2, speed=0, percent=0.797000
+    Feet pos=1, speed=0, percent=0.790000
+
+SENSORY_TOUCH
+
+SENSORY_TIMEOUT
+    EVENT =1
+    tslp =0sec
+    tsld =546sec
+    ptt  =6sec
+
+HAPPINESS_RUN
+    Satiation=0.000000
+    Frustation=17.916668
+    Boredom=100.000000
+    Level=0.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=6sec
+    modul=0.000000
+    weight=100.000000
+    level=60.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=96sec
+    modul=0.000000
+    weight=0.000000
+    level=10.000000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=546sec
+    modul=0.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TOUCH
+
+HAPPINESS_RUN
+    Satiation=60.000000
+    Frustation=10.000000
+    Boredom=0.000000
+    Level=15.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=0sec
+    modul=0.000000
+    weight=100.000000
+    level=50.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=96sec
+    modul=0.000000
+    weight=0.000000
+    level=10.000000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=546sec
+    modul=0.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TIMEOUT_WAIT
+    EVENT =1
+    tslp =0sec
+    tsld =546sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=50.000000
+    Frustation=10.000000
+    Boredom=0.000000
+    Level=27.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=0sec
+    modul=15.000000
+    weight=100.000000
+    level=50.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=96sec
+    modul=15.000000
+    weight=0.000000
+    level=10.000000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=546sec
+    modul=15.000000
+    weight=0.000000
+    level=0.000000
+
+MOTORCORTEX_RUN
+    Action=2
+    Eyes pos=4, speed=0, percent=0.324000
+    Ears pos=2, speed=0, percent=0.158000
+    Feet pos=3, speed=0, percent=0.964000
+Talking code=0 sound_id=2
+
+SENSORY_TOUCH
+
+SENSORY_TIMEOUT
+    EVENT =1
+    tslp =0sec
+    tsld =549sec
+    ptt  =6sec
+
+HAPPINESS_RUN
+    Satiation=50.000000
+    Frustation=10.000000
+    Boredom=0.000000
+    Level=39.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=6sec
+    modul=27.000000
+    weight=100.000000
+    level=60.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=99sec
+    modul=27.000000
+    weight=0.000000
+    level=8.750000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=549sec
+    modul=27.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TOUCH
+
+HAPPINESS_RUN
+    Satiation=60.000000
+    Frustation=8.750000
+    Boredom=0.000000
+    Level=54.375000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=0sec
+    modul=39.000000
+    weight=100.000000
+    level=50.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=99sec
+    modul=39.000000
+    weight=0.000000
+    level=8.750000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=549sec
+    modul=39.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TIMEOUT_WAIT
+    EVENT =1
+    tslp =0sec
+    tsld =549sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=50.000000
+    Frustation=8.750000
+    Boredom=0.000000
+    Level=66.750000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=0sec
+    modul=54.375000
+    weight=100.000000
+    level=50.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=99sec
+    modul=54.375000
+    weight=0.000000
+    level=8.750000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=549sec
+    modul=54.375000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TOUCH
+
+SENSORY_TIMEOUT
+    EVENT =1
+    tslp =0sec
+    tsld =550sec
+    ptt  =6sec
+
+HAPPINESS_RUN
+    Satiation=50.000000
+    Frustation=8.750000
+    Boredom=0.000000
+    Level=79.125000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=6sec
+    modul=66.750000
+    weight=100.000000
+    level=60.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=100sec
+    modul=66.750000
+    weight=0.000000
+    level=8.333332
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=550sec
+    modul=66.750000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TOUCH
+
+HAPPINESS_RUN
+    Satiation=60.000000
+    Frustation=8.333332
+    Boredom=0.000000
+    Level=94.625000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=0sec
+    modul=79.125000
+    weight=100.000000
+    level=50.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=100sec
+    modul=79.125000
+    weight=0.000000
+    level=8.333332
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=550sec
+    modul=79.125000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TIMEOUT_WAIT
+    EVENT =1
+    tslp =0sec
+    tsld =550sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=50.000000
+    Frustation=8.333332
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=0sec
+    modul=94.625000
+    weight=100.000000
+    level=50.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=100sec
+    modul=94.625000
+    weight=0.000000
+    level=8.333332
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=550sec
+    modul=94.625000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TOUCH
+
+SENSORY_TIMEOUT
+    EVENT =1
+    tslp =0sec
+    tsld =552sec
+    ptt  =6sec
+
+HAPPINESS_RUN
+    Satiation=50.000000
+    Frustation=8.333332
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=6sec
+    modul=100.000000
+    weight=100.000000
+    level=60.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=102sec
+    modul=100.000000
+    weight=0.000000
+    level=7.500000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=552sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TOUCH
+
+HAPPINESS_RUN
+    Satiation=60.000000
+    Frustation=7.500000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=0sec
+    modul=100.000000
+    weight=100.000000
+    level=50.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=102sec
+    modul=100.000000
+    weight=0.000000
+    level=7.500000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=552sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+SENSORY_TIMEOUT_WAIT
+    EVENT =1
+    tslp =0sec
+    tsld =552sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=50.000000
+    Frustation=7.500000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=0sec
+    ptt=0sec
+    modul=100.000000
+    weight=100.000000
+    level=50.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=102sec
+    modul=100.000000
+    weight=0.000000
+    level=7.500000
+
+BOREDOM_RUN
+    tslp=0sec
+    tsld=552sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=5, speed=2, percent=0.579000
+    Ears pos=0, speed=2, percent=0.736000
+    Feet pos=0, speed=2, percent=0.615000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=2, percent=0.501000
+    Ears pos=1, speed=2, percent=0.529000
+    Feet pos=3, speed=2, percent=0.721000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=7, speed=2, percent=0.333000
+    Ears pos=1, speed=2, percent=0.780000
+    Feet pos=4, speed=2, percent=0.974000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=1, speed=2, percent=0.378000
+    Ears pos=1, speed=2, percent=0.096000
+    Feet pos=4, speed=2, percent=0.393000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=5, speed=2, percent=0.722000
+    Ears pos=1, speed=2, percent=0.142000
+    Feet pos=3, speed=2, percent=0.875000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=2, speed=2, percent=0.753000
+    Ears pos=0, speed=2, percent=0.935000
+    Feet pos=0, speed=2, percent=0.710000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =20sec
+    tsld =572sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=50.000000
+    Frustation=7.500000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=20sec
+    ptt=0sec
+    modul=100.000000
+    weight=100.000000
+    level=50.000004
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=122sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=20sec
+    tsld=572sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=1, speed=2, percent=0.591000
+    Ears pos=1, speed=2, percent=0.520000
+    Feet pos=2, speed=2, percent=0.705000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=2, percent=0.775000
+    Ears pos=1, speed=2, percent=0.207000
+    Feet pos=2, speed=2, percent=0.972000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=1, speed=2, percent=0.326000
+    Ears pos=1, speed=2, percent=0.940000
+    Feet pos=0, speed=2, percent=0.841000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=2, speed=2, percent=0.265000
+    Ears pos=1, speed=2, percent=0.932000
+    Feet pos=1, speed=2, percent=0.209000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=6, speed=2, percent=0.947000
+    Ears pos=2, speed=2, percent=0.145000
+    Feet pos=1, speed=2, percent=0.492000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =41sec
+    tsld =593sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=50.000004
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=41sec
+    ptt=0sec
+    modul=100.000000
+    weight=100.000000
+    level=50.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=143sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=41sec
+    tsld=593sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=2, speed=2, percent=0.879000
+    Ears pos=1, speed=2, percent=0.427000
+    Feet pos=0, speed=2, percent=0.850000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=1, speed=2, percent=0.908000
+    Ears pos=1, speed=2, percent=0.654000
+    Feet pos=0, speed=2, percent=0.474000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=2, speed=2, percent=0.171000
+    Ears pos=1, speed=2, percent=0.031000
+    Feet pos=0, speed=2, percent=0.791000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=1, speed=2, percent=0.156000
+    Ears pos=2, speed=2, percent=0.233000
+    Feet pos=1, speed=2, percent=0.148000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=6, speed=2, percent=0.773000
+    Ears pos=0, speed=2, percent=0.868000
+    Feet pos=4, speed=2, percent=0.119000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =61sec
+    tsld =613sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=50.000000
+    Frustation=0.000000
+    Boredom=0.000000
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=61sec
+    ptt=0sec
+    modul=100.000000
+    weight=100.000000
+    level=49.166668
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=163sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=61sec
+    tsld=613sec
+    modul=100.000000
+    weight=1.666667
+    level=1.666667
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=8, speed=2, percent=0.693000
+    Ears pos=2, speed=2, percent=0.028000
+    Feet pos=0, speed=2, percent=0.409000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=2, percent=0.106000
+    Ears pos=1, speed=2, percent=0.797000
+    Feet pos=2, speed=2, percent=0.685000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=1, speed=2, percent=0.888000
+    Ears pos=1, speed=2, percent=0.570000
+    Feet pos=3, speed=2, percent=0.876000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=2, percent=0.740000
+    Ears pos=1, speed=2, percent=0.958000
+    Feet pos=3, speed=2, percent=0.248000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=1, speed=2, percent=0.609000
+    Ears pos=1, speed=2, percent=0.564000
+    Feet pos=0, speed=2, percent=0.990000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =81sec
+    tsld =633sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=49.166668
+    Frustation=0.000000
+    Boredom=1.666667
+    Level=100.000000
+
+SATIATION_RUN
+    tslp=81sec
+    ptt=0sec
+    modul=100.000000
+    weight=100.000000
+    level=32.500000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=183sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=81sec
+    tsld=633sec
+    modul=100.000000
+    weight=35.000000
+    level=35.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=2, speed=2, percent=0.853000
+    Ears pos=1, speed=2, percent=0.740000
+    Feet pos=3, speed=2, percent=0.076000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=2, percent=0.717000
+    Ears pos=1, speed=2, percent=0.517000
+    Feet pos=0, speed=2, percent=0.831000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=3, speed=2, percent=0.146000
+    Ears pos=0, speed=2, percent=0.071000
+    Feet pos=3, speed=2, percent=0.427000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=4, speed=2, percent=0.894000
+    Ears pos=0, speed=2, percent=0.881000
+    Feet pos=1, speed=2, percent=0.747000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=0, speed=2, percent=0.420000
+    Ears pos=1, speed=2, percent=0.354000
+    Feet pos=0, speed=2, percent=0.553000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=7, speed=2, percent=0.463000
+    Ears pos=2, speed=2, percent=0.963000
+    Feet pos=4, speed=2, percent=0.181000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =101sec
+    tsld =653sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=32.500000
+    Frustation=0.000000
+    Boredom=35.000000
+    Level=99.250000
+
+SATIATION_RUN
+    tslp=101sec
+    ptt=0sec
+    modul=100.000000
+    weight=63.333332
+    level=15.833333
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=203sec
+    modul=100.000000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=101sec
+    tsld=653sec
+    modul=100.000000
+    weight=68.333336
+    level=68.333336
+
+MOTORCORTEX_RUN
+    Action=1
+    Eyes pos=3, speed=2, percent=0.333000
+    Ears pos=2, speed=2, percent=0.718000
+    Feet pos=2, speed=2, percent=0.092000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=8, speed=2, percent=0.572000
+    Ears pos=2, speed=2, percent=0.650000
+    Feet pos=3, speed=2, percent=0.883000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=2, speed=2, percent=0.059000
+    Ears pos=2, speed=2, percent=0.368000
+    Feet pos=0, speed=2, percent=0.253000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=4, speed=2, percent=0.246000
+    Ears pos=0, speed=2, percent=0.367000
+    Feet pos=1, speed=2, percent=0.588000
+
+SENSORY_TIMEOUT
+    EVENT =0
+    tslp =121sec
+    tsld =673sec
+    ptt  =0sec
+
+HAPPINESS_RUN
+    Satiation=15.833333
+    Frustation=0.000000
+    Boredom=68.333336
+    Level=83.750000
+
+SATIATION_RUN
+    tslp=121sec
+    ptt=0sec
+    modul=99.250000
+    weight=0.000000
+    level=0.000000
+
+FRUSTATION_RUN
+    tlu=0sec
+    tsll=223sec
+    modul=99.250000
+    weight=0.000000
+    level=0.000000
+
+BOREDOM_RUN
+    tslp=121sec
+    tsld=673sec
+    modul=99.250000
+    weight=100.000000
+    level=100.000000
+
+MOTORCORTEX_RUN
+    Action=0
+    Eyes pos=0, speed=2, percent=0.295000
+    Ears pos=2, speed=2, percent=0.724000
+    Feet pos=2, speed=2, percent=0.990000
+
+MOTORCORTEX_RUN
+    Action=-1
+    Eyes pos=6, speed=2, percent=0.877000
+    Ears pos=2, speed=2, percent=0.701000
+    Feet pos=2, speed=2, percent=0.389000

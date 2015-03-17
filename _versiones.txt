@@ -1,0 +1,1061 @@
+
+*********************** RELEASE INFROMATION FILE ********************
+------------------------------------------------------------------------------------------
+17.03.2015-001
+	>> Corrijo bug en array tts, pero no controlo los comandos reconocidos, únicamente los trata como si
+	jugaran con él. Están implementados todos los audios. A partir de ahora hacer lo siguiente:
+	
+	OK-Pegar la pata del servo al pico
+	OK-Dejar funcionando para ver cómo reproduce los audios
+	OK-Preparar conector miniusb para cargador externo y quitar pilas para ahorrar espacio
+	4-Vestir y terminar proyecto grabando algún video demostrativo. Cerrar proyecto en LMR.
+
+    TIEMPO TOTAL aprox: 122h
+------------------------------------------------------------------------------------------
+03.03.2015-001
+	>> Terminado, pero no controlo los comandos reconocidos, únicamente los trata como si
+	jugaran con él. Están implementados todos los audios. A partir de ahora hacer lo siguiente:
+	
+	1-Pegar la pata del servo al pico
+	2-Dejar funcionando para ver cómo reproduce los audios
+	3-Preparar conector miniusb para cargador externo y quitar pilas para ahorrar espacio
+	4-Vestir y terminar proyecto grabando algún video demostrativo. Cerrar proyecto en LMR.
+
+    TIEMPO TOTAL aprox: 122h
+------------------------------------------------------------------------------------------
+10.02.2015-001
+	>> Comandos de voz entrenados de forma correcta y audios generados en proyecto QS4.
+	   ACTUALIZADA la tabla de sonidos, pero de momento estoy haciendo lo siguiente:
+	   
+	   - Ejecuto en modo normal (paso a paso) para depurar HurbySpeech, lo he modificado para
+	     para que empiece a reconocer los comandos SD. 	 
+	   
+	   - Habilitada la reproducción de los nuevos sonidos grabados. ACTUALIZANDO TTS.
+	   
+	   x Cuando los textos se reproduzcan bien, probar cómo va el movimiento de la boca. Si
+	     no consigo que vaya medio bien, intentar utilizar LipSync.
+		 
+	   x Cuando todo lo anterior funcione, organizar los comandos y textos para definir cómo
+	     se debe comportar el Hurby en función de los mismos.
+		 
+	   x Testear todo. Cuando esté listo, preparar cargador de pilas, interruptor, cable usb
+	     dentro del Hurby, vestir, cerrar y listo.
+
+	>> Utilizo pin p20 como salida para resetar físicamente el módulo VR (/RST pin 100k pullup)
+
+    TIEMPO TOTAL aprox: 118h
+------------------------------------------------------------------------------------------
+05.02.2015-001
+	>> Comandos de voz entrenados de forma correcta y audios generados en proyecto QS4.
+	   ACTUALIZADA la tabla de sonidos, pero de momento estoy haciendo lo siguiente:
+	   
+	   x Ejecuto en modo normal (paso a paso) para depurar HurbySpeech, lo he modificado para
+	     para que empiece a reconocer los comandos SD. 	 
+	   
+	   x Habilitada la reproducción de los nuevos sonidos grabados.
+	   
+	   - Cuando los textos se reproduzcan bien, probar cómo va el movimiento de la boca. Si
+	     no consigo que vaya medio bien, intentar utilizar LipSync.
+		 
+	   - Cuando todo lo anterior funcione, organizar los comandos y textos para definir cómo
+	     se debe comportar el Hurby en función de los mismos.
+		 
+	   - Testear todo. Cuando esté listo, preparar cargador de pilas, interruptor, cable usb
+	     dentro del Hurby, vestir, cerrar y listo.
+
+	>> Utilizo pin p20 como salida para resetar físicamente el módulo VR (/RST pin 100k pullup)
+
+    TIEMPO TOTAL aprox: 117h
+------------------------------------------------------------------------------------------
+31.10.2014-001
+	>> Comandos de voz entrenados de forma correcta y audios generados en proyecto QS4.
+	   Faltaría entrar en modo bridge_record para actualizar la tabla de sonidos, pero
+	   de momento hay que hacer lo siguiente:
+	   
+	   x Ejecutar en modo normal (paso a paso) para depurar HurbySpeech, ya que está
+	     todo configurado por defecto para que empiece a reconocer números en español. Poner
+		 punto de ruptura en la rutina de reconocimiento de ese módulo y chequear.
+		 FUNCIONA A 115200bps!!!		 
+	   
+	   x Una vez que eso funcione, intentar grabar la tabla de sonidos. Cuando esté hecho,
+	     preparar el código para que active la reproducción de los mismos.
+	   
+	   - Cuando los textos se reproduzcan bien, probar cómo va el movimiento de la boca. Si
+	     no consigo que vaya medio bien, intentar utilizar LipSync.
+		 
+	   - Cuando todo lo anterior funcione, organizar los comandos y textos para definir cómo
+	     se debe comportar el Hurby en función de los mismos.
+		 
+	   - Testear todo. Cuando esté listo, preparar cargador de pilas, interruptor, cable usb
+	     dentro del Hurby, vestir, cerrar y listo.
+
+	>> Utilizo pin p20 como salida para resetar físicamente el módulo VR (/RST pin 100k pullup)
+
+    TIEMPO TOTAL aprox: 115h
+------------------------------------------------------------------------------------------
+15.10.2014-002
+	>> Comandos de voz entrenados de forma correcta y audios generados en proyecto QS4.
+	   Faltaría entrar en modo bridge_record para actualizar la tabla de sonidos, pero
+	   de momento hay que hacer lo siguiente:
+	   
+	   x Ejecutar en modo normal (paso a paso) para depurar HurbySpeech, ya que está
+	     todo configurado por defecto para que empiece a reconocer números en español. Poner
+		 punto de ruptura en la rutina de reconocimiento de ese módulo y chequear.
+		 FUNCIONA A 115200bps!!!		 
+	   
+	   - Una vez que eso funcione, intentar grabar la tabla de sonidos. Cuando esté hecho,
+	     preparar el código para que active la reproducción de los mismos.
+	   
+	   - Cuando los textos se reproduzcan bien, probar cómo va el movimiento de la boca. Si
+	     no consigo que vaya medio bien, intentar utilizar LipSync.
+		 
+	   - Cuando todo lo anterior funcione, organizar los comandos y textos para definir cómo
+	     se debe comportar el Hurby en función de los mismos.
+		 
+	   - Testear todo. Cuando esté listo, preparar cargador de pilas, interruptor, cable usb
+	     dentro del Hurby, vestir, cerrar y listo.
+
+	>> Utilizo pin p20 como salida para resetar físicamente el módulo VR (/RST pin 100k pullup)
+
+    TIEMPO TOTAL aprox: 115h
+------------------------------------------------------------------------------------------
+15.10.2014-001
+	>> Comandos de voz entrenados de forma correcta y audios generados en proyecto QS4.
+	   Faltaría entrar en modo bridge_record para actualizar la tabla de sonidos, pero
+	   de momento hay que hacer lo siguiente:
+	   
+	   x Ejecutar en modo normal (paso a paso) para depurar HurbySpeech, ya que está
+	     todo configurado por defecto para que empiece a reconocer números en español. Poner
+		 punto de ruptura en la rutina de reconocimiento de ese módulo y chequear.
+		 FUNCIONA!!!		 
+	   
+	   - Una vez que eso funcione, intentar grabar la tabla de sonidos. Cuando esté hecho,
+	     preparar el código para que active la reproducción de los mismos.
+	   
+	   - Cuando los textos se reproduzcan bien, probar cómo va el movimiento de la boca. Si
+	     no consigo que vaya medio bien, intentar utilizar LipSync.
+		 
+	   - Cuando todo lo anterior funcione, organizar los comandos y textos para definir cómo
+	     se debe comportar el Hurby en función de los mismos.
+		 
+	   - Testear todo. Cuando esté listo, preparar cargador de pilas, interruptor, cable usb
+	     dentro del Hurby, vestir, cerrar y listo.
+
+	>> Utilizo pin p20 como salida para resetar físicamente el módulo VR (/RST pin 100k pullup)
+
+    TIEMPO TOTAL aprox: 115h
+------------------------------------------------------------------------------------------
+14.10.2014-002
+	>> Comandos de voz entrenados de forma correcta y audios generados en proyecto QS4.
+	   Faltaría entrar en modo bridge_record para actualizar la tabla de sonidos, pero
+	   de momento hay que hacer lo siguiente:
+	   
+	   - Ejecutar en modo normal (paso a paso) para depurar HurbySpeech, ya que está
+	     todo configurado por defecto para que empiece a reconocer números en español. Poner
+		 punto de ruptura en la rutina de reconocimiento de ese módulo y chequear.
+		 FUNCIONA EL TEST!!!
+		 
+			@@@ PROBANDO FUNCIONAMIENTO NORMAL DE ESTA MANERA......
+		 
+	   
+	   - Una vez que eso funcione, intentar grabar la tabla de sonidos. Cuando esté hecho,
+	     preparar el código para que active la reproducción de los mismos.
+	   
+	   - Cuando los textos se reproduzcan bien, probar cómo va el movimiento de la boca. Si
+	     no consigo que vaya medio bien, intentar utilizar LipSync.
+		 
+	   - Cuando todo lo anterior funcione, organizar los comandos y textos para definir cómo
+	     se debe comportar el Hurby en función de los mismos.
+		 
+	   - Testear todo. Cuando esté listo, preparar cargador de pilas, interruptor, cable usb
+	     dentro del Hurby, vestir, cerrar y listo.
+    >> Utilizo pin p20 como salida para resetar físicamente el módulo VR (/RST pin 100k pullup)
+
+    TIEMPO TOTAL aprox: 114h
+------------------------------------------------------------------------------------------
+14.10.2014-001
+	>> Comandos de voz entrenados de forma correcta y audios generados en proyecto QS4.
+	   Faltaría entrar en modo bridge_record para actualizar la tabla de sonidos, pero
+	   de momento hay que hacer lo siguiente:
+	   
+	   - Ejecutar en modo normal (paso a paso) para depurar HurbySpeech, ya que está
+	     todo configurado por defecto para que empiece a reconocer números en español. Poner
+		 punto de ruptura en la rutina de reconocimiento de ese módulo y chequear.
+		 FUNCIONA EL TEST!!!
+		 
+			@@@ YA FUNCIONA MODO ASINCRONO. PREPARAR FUNCIONAMIENTO NORMAL DE ESTA MANERA.
+		 
+	   
+	   - Una vez que eso funcione, intentar grabar la tabla de sonidos. Cuando esté hecho,
+	     preparar el código para que active la reproducción de los mismos.
+	   
+	   - Cuando los textos se reproduzcan bien, probar cómo va el movimiento de la boca. Si
+	     no consigo que vaya medio bien, intentar utilizar LipSync.
+		 
+	   - Cuando todo lo anterior funcione, organizar los comandos y textos para definir cómo
+	     se debe comportar el Hurby en función de los mismos.
+		 
+	   - Testear todo. Cuando esté listo, preparar cargador de pilas, interruptor, cable usb
+	     dentro del Hurby, vestir, cerrar y listo.
+    >> Utilizo pin p20 como salida para resetar físicamente el módulo VR (/RST pin 100k pullup)
+
+    TIEMPO TOTAL aprox: 114h
+------------------------------------------------------------------------------------------
+10.10.2014-003
+	>> Comandos de voz entrenados de forma correcta y audios generados en proyecto QS4.
+	   Faltaría entrar en modo bridge_record para actualizar la tabla de sonidos, pero
+	   de momento hay que hacer lo siguiente:
+	   
+	   - Ejecutar en modo normal (paso a paso) para depurar HurbySpeech, ya que está
+	     todo configurado por defecto para que empiece a reconocer números en español. Poner
+		 punto de ruptura en la rutina de reconocimiento de ese módulo y chequear.
+		 FUNCIONA EL TEST!!!
+		 
+			@@@ TENGO QUE AÑADIR EL MBED_RTOS Y CREAR UNA TAREA PARA EL MODULO DE RECONOCIMIENTO
+			    YA QUE FUNCIONA ERRATICAMENTE SI LA EJECUCION ES ASINCRONA. IMPORTAR RTOS Y
+				PROBAR SUSTITUYENDO wait POR Thread::wait.
+		 
+	   
+	   - Una vez que eso funcione, intentar grabar la tabla de sonidos. Cuando esté hecho,
+	     preparar el código para que active la reproducción de los mismos.
+	   
+	   - Cuando los textos se reproduzcan bien, probar cómo va el movimiento de la boca. Si
+	     no consigo que vaya medio bien, intentar utilizar LipSync.
+		 
+	   - Cuando todo lo anterior funcione, organizar los comandos y textos para definir cómo
+	     se debe comportar el Hurby en función de los mismos.
+		 
+	   - Testear todo. Cuando esté listo, preparar cargador de pilas, interruptor, cable usb
+	     dentro del Hurby, vestir, cerrar y listo.
+    >> Utilizo pin p20 como salida para resetar físicamente el módulo VR (/RST pin 100k pullup)
+
+    TIEMPO TOTAL aprox: 113h
+------------------------------------------------------------------------------------------
+10.10.2014-002
+	>> Comandos de voz entrenados de forma correcta y audios generados en proyecto QS4.
+	   Faltaría entrar en modo bridge_record para actualizar la tabla de sonidos, pero
+	   de momento hay que hacer lo siguiente:
+	   
+	   - Ejecutar en modo normal (paso a paso) para depurar HurbySpeech, ya que está
+	     todo configurado por defecto para que empiece a reconocer números en español. Poner
+		 punto de ruptura en la rutina de reconocimiento de ese módulo y chequear.
+		 PROBAR SOLUCION HECHA Y VISTA EN YOUTUBE, PQ NO ME FUNCIONA LA MIA.
+		 
+	   
+	   - Una vez que eso funcione, intentar grabar la tabla de sonidos. Cuando esté hecho,
+	     preparar el código para que active la reproducción de los mismos.
+	   
+	   - Cuando los textos se reproduzcan bien, probar cómo va el movimiento de la boca. Si
+	     no consigo que vaya medio bien, intentar utilizar LipSync.
+		 
+	   - Cuando todo lo anterior funcione, organizar los comandos y textos para definir cómo
+	     se debe comportar el Hurby en función de los mismos.
+		 
+	   - Testear todo. Cuando esté listo, preparar cargador de pilas, interruptor, cable usb
+	     dentro del Hurby, vestir, cerrar y listo.
+    >> Utilizo pin p20 como salida para resetar físicamente el módulo VR (/RST pin 100k pullup)
+
+    TIEMPO TOTAL aprox: 113h
+------------------------------------------------------------------------------------------
+10.10.2014-001
+	>> Comandos de voz entrenados de forma correcta y audios generados en proyecto QS4.
+	   Faltaría entrar en modo bridge_record para actualizar la tabla de sonidos, pero
+	   de momento hay que hacer lo siguiente:
+	   
+	   - Ejecutar en modo normal (paso a paso) para depurar HurbySpeech, ya que está
+	     todo configurado por defecto para que empiece a reconocer números en español. Poner
+		 punto de ruptura en la rutina de reconocimiento de ese módulo y chequear.
+		 IMPLEMENTAR SOLUCION VISTA EN YOUTUBE, PQ NO ME FUNCIONA LA MIA.
+		 
+	   
+	   - Una vez que eso funcione, intentar grabar la tabla de sonidos. Cuando esté hecho,
+	     preparar el código para que active la reproducción de los mismos.
+	   
+	   - Cuando los textos se reproduzcan bien, probar cómo va el movimiento de la boca. Si
+	     no consigo que vaya medio bien, intentar utilizar LipSync.
+		 
+	   - Cuando todo lo anterior funcione, organizar los comandos y textos para definir cómo
+	     se debe comportar el Hurby en función de los mismos.
+		 
+	   - Testear todo. Cuando esté listo, preparar cargador de pilas, interruptor, cable usb
+	     dentro del Hurby, vestir, cerrar y listo.
+    >> Utilizo pin p20 como salida para resetar físicamente el módulo VR (/RST pin 100k pullup)
+
+    TIEMPO TOTAL aprox: 112h
+------------------------------------------------------------------------------------------
+09.10.2014-002
+	>> Comandos de voz entrenados de forma correcta y audios generados en proyecto QS4.
+	   Faltaría entrar en modo bridge_record para actualizar la tabla de sonidos, pero
+	   de momento hay que hacer lo siguiente:
+	   
+	   - Ejecutar en modo normal (paso a paso) para depurar HurbySpeech, ya que está
+	     todo configurado por defecto para que empiece a reconocer números en español. Poner
+		 punto de ruptura en la rutina de reconocimiento de ese módulo y chequear.
+		 RETOCO RUTINA DE RECONOCIMIENTO ASÍNCRONO... CHEQUEAR.
+		 
+	   
+	   - Una vez que eso funcione, intentar grabar la tabla de sonidos. Cuando esté hecho,
+	     preparar el código para que active la reproducción de los mismos.
+	   
+	   - Cuando los textos se reproduzcan bien, probar cómo va el movimiento de la boca. Si
+	     no consigo que vaya medio bien, intentar utilizar LipSync.
+		 
+	   - Cuando todo lo anterior funcione, organizar los comandos y textos para definir cómo
+	     se debe comportar el Hurby en función de los mismos.
+		 
+	   - Testear todo. Cuando esté listo, preparar cargador de pilas, interruptor, cable usb
+	     dentro del Hurby, vestir, cerrar y listo.
+    >> Utilizo pin p20 como salida para resetar físicamente el módulo VR (/RST pin 100k pullup)
+
+    TIEMPO TOTAL aprox: 112h
+------------------------------------------------------------------------------------------
+09.10.2014-001
+    >> Utilizo pin p20 como salida para resetar físicamente el módulo VR (/RST pin 100k pullup)
+	>> Comandos de voz entrenados de forma correcta y audios generados en proyecto QS4.
+	   Faltaría entrar en modo bridge_record para actualizar la tabla de sonidos, pero
+	   de momento hay que hacer lo siguiente:
+	   
+	   - Ejecutar en modo normal (paso a paso) para depurar HurbySpeech, ya que está
+	     todo configurado por defecto para que empiece a reconocer números en español. Poner
+		 punto de ruptura en la rutina de reconocimiento de ese módulo y chequear.
+		 PARECE QUE NO HACE NINGUNA ESPERA DURANTE EL RECONOCIMIENTO Y SIEMPRE DEVUELVE UN VALOR
+		 AUNQUE SEA INCORRECTO. LO MISMO TENGO MAL EL TIMEOUT DE RECONOCIMIENTO... CHEQUEAR.
+		 
+	   
+	   - Una vez que eso funcione, intentar grabar la tabla de sonidos. Cuando esté hecho,
+	     preparar el código para que active la reproducción de los mismos.
+	   
+	   - Cuando los textos se reproduzcan bien, probar cómo va el movimiento de la boca. Si
+	     no consigo que vaya medio bien, intentar utilizar LipSync.
+		 
+	   - Cuando todo lo anterior funcione, organizar los comandos y textos para definir cómo
+	     se debe comportar el Hurby en función de los mismos.
+		 
+	   - Testear todo. Cuando esté listo, preparar cargador de pilas, interruptor, cable usb
+	     dentro del Hurby, vestir, cerrar y listo.
+	TIEMPO TOTAL aprox: 110h
+------------------------------------------------------------------------------------------
+08.10.2014-001
+    >> Utilizo pin p20 como salida para resetar físicamente el módulo VR (/RST pin 100k pullup)
+	>> Comandos de voz entrenados de forma correcta y audios generados en proyecto QS4.
+	   Faltaría entrar en modo bridge_record para actualizar la tabla de sonidos, pero
+	   de momento hay que hacer lo siguiente:
+	   
+	   - Ejecutar en modo normal (paso a paso) para depurar HurbySpeech, ya que está
+	     todo configurado por defecto para que empiece a reconocer números en español. Poner
+		 punto de ruptura en la rutina de reconocimiento de ese módulo y chequear.
+	   
+	   - Una vez que eso funcione, intentar grabar la tabla de sonidos. Cuando esté hecho,
+	     preparar el código para que active la reproducción de los mismos.
+	   
+	   - Cuando los textos se reproduzcan bien, probar cómo va el movimiento de la boca. Si
+	     no consigo que vaya medio bien, intentar utilizar LipSync.
+		 
+	   - Cuando todo lo anterior funcione, organizar los comandos y textos para definir cómo
+	     se debe comportar el Hurby en función de los mismos.
+		 
+	   - Testear todo. Cuando esté listo, preparar cargador de pilas, interruptor, cable usb
+	     dentro del Hurby, vestir, cerrar y listo.
+	TIEMPO TOTAL aprox: 110h
+------------------------------------------------------------------------------------------
+19.09.2014-001
+	>> Comandos de voz entrenados de forma correcta y audios generados en proyecto QS4.
+	   Faltaría entrar en modo bridge_record para actualizar la tabla de sonidos, pero
+	   de momento hay que hacer lo siguiente:
+	   
+	   - Ejecutar en modo normal (paso a paso) para depurar HurbySpeech, ya que está
+	     todo configurado por defecto para que empiece a reconocer números en español. Poner
+		 punto de ruptura en la rutina de reconocimiento de ese módulo y chequear.
+	   
+	   - Una vez que eso funcione, intentar grabar la tabla de sonidos. Cuando esté hecho,
+	     preparar el código para que active la reproducción de los mismos.
+	   
+	   - Cuando los textos se reproduzcan bien, probar cómo va el movimiento de la boca. Si
+	     no consigo que vaya medio bien, intentar utilizar LipSync.
+		 
+	   - Cuando todo lo anterior funcione, organizar los comandos y textos para definir cómo
+	     se debe comportar el Hurby en función de los mismos.
+		 
+	   - Testear todo. Cuando esté listo, preparar cargador de pilas, interruptor, cable usb
+	     dentro del Hurby, vestir, cerrar y listo.
+	TIEMPO TOTAL aprox: 110h
+------------------------------------------------------------------------------------------
+29.08.2014-001
+	>> Integrado driver para módulo VR. Falta probar la rutina de Test creada para reconocer
+	   números en español.
+	   Por otro lado, falta definir las voces y crear el proyecto para volcarlo.
+			   
+	-- Definir comandos de voz y tts en cada situación. Programar VR
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 107h
+------------------------------------------------------------------------------------------
+28.08.2014-001
+	>> Finalizado y probado funcionamiento completo.
+			   
+	-- Definir comandos de voz y tts en cada situación. Programar VR
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 100h
+------------------------------------------------------------------------------------------
+27.08.2014-001
+	>> Corregido algún problema con TSLP en Boredom y con los action.weight en las acciones
+	   de los comportamientos. Además añado control de voz cuando Satiation llega a 0, 
+	   cuando Frustation llega a 100 y en Boredom cuando Happiness es 0.
+	   ** Probar la generación de voces en los límites para ver si RND funciona bien o hay
+	      que retocar las probabilidades.
+			   
+	-- Definir comandos de voz y tts en cada situación. Programar VR
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 97h
+------------------------------------------------------------------------------------------
+26.08.2014-001
+	>> El funcionamiento de la jerarquía de comportamientos es correcta y está terminada,
+	   aunque puede ser necesario modificar la generación de voz en frustración cuando se
+	   le mantiene una oreja agarrada, y ver el retardo de la voz, no sea que se anule.
+			   
+	-- Definir comandos de voz y tts en cada situación. Programar VR
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 95h
+------------------------------------------------------------------------------------------
+25.08.2014-001
+	x- Completado el repaso de comportamientos.
+	   Evoluciona de feliz a infeliz de forma correcta tras unos 7-9 min sin tocarlo.
+	   
+	   Repasar la forma en la que se lanzan comandos hablados. Ahora no está bien calculado
+	   ya que es poco probable que hable.
+	   
+	   Al tocarlo reacciona bien subiendo su felicidad progresivamente 3-4min hasta 100% y 
+	   luego vuelve a caer paulatinamente. Esto lo mismo hay que retocarlo para que no suba 
+	   tanto y tras un par de minutos de inactividad vuelva a bajar solo.
+	   
+	   Ver la forma en la que se repite el comando hablado en MotorCortex, porque lo repite 
+	   demasiado frecuentemente cuando se activa (cada 3-5 segs).
+	   
+	   Todos los resultados en "loghurby.log"
+	   
+	-- Definir comandos de voz y tts en cada situación. Programar VR
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 87h
+------------------------------------------------------------------------------------------
+13.08.2014-001
+	x- Evaluando paso a paso ejecución completa con los nuevos logs. He cambiado el "weight"
+	   de las acciones de uint8_t a float para tener valores reales entre 0 y 100. Por otro
+	   lado, la modulación utiliza este weight y tengo que ver cómo afectan estos cambios
+	   en la propagación de pesos de los diferentes comportamientos.
+	   Tengo finalizado Happiness y tengo que ver el resto de comportamientos.
+	-- Definir comandos de voz y tts en cada situación. Programar VR
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 80h
+------------------------------------------------------------------------------------------
+29.07.2014-001
+	x- Definidos nuevos logs. Probarlos
+	-- Definir comandos de voz y tts en cada situación. Programar VR
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 80h
+------------------------------------------------------------------------------------------
+15.07.2014-001
+	x- Comportamientos finalizados. Falta verificarlos
+	x- Definidos nuevos logs para cursores
+	-- Definir comandos de voz y tts en cada situación. Programar VR
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 79h
+------------------------------------------------------------------------------------------
+08.07.2014-001
+	x- Comportamientos finalizados. Falta verificarlos
+	x- Definiendo nuevos logs con cursores
+	-- Definir comandos de voz y tts en cada situación. Programar VR
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 79h
+------------------------------------------------------------------------------------------
+30.06.2014-001
+	x- Comportamientos finalizados. Falta verificarlos
+	-- Definir comandos de voz y tts en cada situación. Programar VR
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 78h
+------------------------------------------------------------------------------------------
+27.06.2014-001
+	-- Modular comportamientos con la nueva variable "modulation". Probar
+	x- Verificar módulo Happiness con nuevas entradas: frustation, satiation, boredom
+	x- Verificar que MotorCortex genera voz con/sin repetición y/o retardo
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 76h
+------------------------------------------------------------------------------------------
+26.06.2014-002
+	x- Implementado resto de comportamientos. Evaluar como evolucionará cada uno de ellos
+		(ajuste del goal, degrade_rate, etc...)
+	x- Verificar módulo Happiness con nuevas entradas: frustation, satiation, boredom
+	x- Verificar que MotorCortex genera voz con/sin repetición y/o retardo
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 74h
+------------------------------------------------------------------------------------------
+26.06.2014-001
+	x- Verificar módulo Happiness con nuevas entradas: frustation, satiation, boredom
+	x- Verificar que MotorCortex genera voz con/sin repetición y/o retardo
+	-- Definir cada uno de los comportamientos
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 72h
+------------------------------------------------------------------------------------------
+25.06.2014-001
+	xx Verificado funcionamiento de HurbyMouth
+	xx Añado varios TTS de test
+	xx Movimiento de la boca arreglado
+	x- Modifico MotorCortex para generar voz con/sin repetición y/o retardo
+	-- Rehacer módulo Happiness para nuevas entradas: frustation, satiation, boredom
+	-- Diseñar resto de comportamientos
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 70h
+------------------------------------------------------------------------------------------
+18.06.2014-001
+	xx Añado varios TTS de test
+	x- Modifico MotorCortex para generar voz con/sin repetición y/o retardo
+	x- Modificado cálculo de la variable PTT
+	-- Modificando HurbyMouth
+	-- Ver qué ocurre con el movimiento de la boca y pegarla al eje del servo
+	-- Diseñar resto de comportamientos
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 70h
+------------------------------------------------------------------------------------------
+17.06.2014-001
+	xx Añadido más trazas de depuración para ver los detalles de los módulos importantes
+	xx Verifico módulo PStore
+	xx Actualizo ojos en happiness
+	-- Modificar cálculo de la variable PTT
+	-- Ver qué ocurre con el movimiento de la boca y pegarla al eje del servo
+	-- Diseñar resto de comportamientos
+	-- Cablear pilas y añadir switch
+	-- Estudiar un patrón de apertura de boca en función de lo que se dice. Por ejemplo al
+	   decir "Hola como estás" (en 2.1 segundos y 7 secciones)
+			  Ho ->  50% -> 250ms
+			  la -> 100% -> 750ms
+			  co ->  50% -> 250ms
+			  mo ->   0% -> 100ms
+			  es ->  50% -> 250ms
+			  tas-> 100% -> 300ms
+			  .  ->   0%  ->200ms
+	TIEMPO TOTAL aprox: 68h
+------------------------------------------------------------------------------------------
+16.06.2014-003
+	x- Añadidas rutinas de depuración en cada módulo para ver qué ocurre antes de conectar los 
+	   servos
+	x- Añadido código HurbyDetect para la detección de presencia.
+	x- Modificado tiempo happiness para ver cómo cambia de comportamiento
+	x- Utilizo M24C04W como memoria PS.
+	x- Actualizo ojos en happiness
+	-- Diseñar resto de comportamientos
+	-- Cablear pilas y añadir switch
+	-- Estudiar un patrón de apertura de boca en función de lo que se dice. Por ejemplo al
+	   decir "Hola como estás" (en 2.1 segundos y 7 secciones)
+			  Ho ->  50% -> 250ms
+			  la -> 100% -> 750ms
+			  co ->  50% -> 250ms
+			  mo ->   0% -> 100ms
+			  es ->  50% -> 250ms
+			  tas-> 100% -> 300ms
+			  .  ->   0%  ->200ms
+	TIEMPO TOTAL aprox: 65h
+------------------------------------------------------------------------------------------
+16.06.2014-002
+	x- Añadidas rutinas de depuración en cada módulo para ver qué ocurre antes de conectar los 
+	   servos
+	x- Añadido código HurbyDetect para la detección de presencia.
+	x- Modificado tiempo happiness para ver cómo cambia de comportamiento
+	x- Utilizo M24C04W como memoria PS.
+	-- No carga bien el ojo en happy_100%
+	-- Diseñar resto de comportamientos
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 65h
+------------------------------------------------------------------------------------------
+16.06.2014-001
+	-- No funcina el sistema de ficheros. Guardar última actividad si cambia cada minuto en fs.
+	-- Añadir rutinas de depuración en cada módulo para ver qué ocurre antes de conectar los 
+	   servos
+	-- No carga bien el ojo en happy_100%
+	-- Modificar tiempos happiness para ver cómo cambia de comportamiento
+	-- Diseñar resto de comportamientos
+	-- Cablear pilas y añadir switch
+	TIEMPO TOTAL aprox: 61h
+------------------------------------------------------------------------------------------
+11.06.2014-001
+	xx Sustituyo módulo FuzzyIO8 por módulo Fuzzy que maneja tipos <float>.
+	xx Añado lista de sonidos (ficticia) para su reproducción en VR en el futuro.
+	xx Añado reproducción de sonidos en MotorCortex para que la boca se mueva durante los mismos.
+	x- Añado backup/restore del sistema de ficheros local (VERIFICAR).
+	-- Dar visto bueno a comportamiento Happiness cambiando el rango TSLP para verlo en unos pocos mins.
+	   Verificar:
+			-> El RTC mantiene la hora con la pila de litio
+			-> El sistema de ficheros se lee/escribe bien
+			-> El comportamiento es acorde a lo esperado
+	-- Diseñar resto de comportamientos
+	x- ARREGLADO: Oreja derecha, que no se mueve (cable que va de placa al servo)
+	x- AÑADIR: Pila de litio (backup) y switch en alcalinas. Base rígida.
+	xx HECHO: Evaluar altavoz, colocación de pilas y sensor de presencia
+	TIEMPO TOTAL aprox: 60h
+------------------------------------------------------------------------------------------
+10.06.2014-004	
+	x- Verificar movimientos debidos a Happiness (cambiando el rango tslp y ptt a segundos)
+	-- Diseñar resto de comportamientos
+	> AÑADIR: Pila de litio (backup) o switch en alcalinas. Base rígida.
+	> ARREGLAR: Oreja derecha, que no se mueve (cable que va de placa al servo)
+	> EN_PAUSA: Evaluar altavoz, colocación de pilas y sensor de presencia
+	> EN_PAUSA: Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	TIEMPO TOTAL aprox: 59h
+------------------------------------------------------------------------------------------
+10.06.2014-003	
+	xx Terminado módulo SensoryCortex 
+	xx Desarrollado Subsumption
+	xx Modificado módulo Hurby para agregar Subsumption y enlazar los tres módulos <brain>.
+	xx Modificado módulo Motor Cortex para recibir array de acciones
+	xx Desarrollado Happiness y enlazar en [0] de la SSA
+	xx Reorganizadas listas de comportamiento y acción en Subsumption
+	xx Reorganizados objetos internos, gestores de eventos, etc...
+	-- Implementando acción en Happiness
+	-- Diseñar comportamientos prioritarios
+	> AÑADIR: Pila de litio (backup) o switch en alcalinas. Base rígida.
+	> ARREGLAR: Oreja derecha, que no se mueve (cable que va de placa al servo)
+	> EN_PAUSA: Evaluar altavoz, colocación de pilas y sensor de presencia
+	> EN_PAUSA: Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	TIEMPO TOTAL aprox: 59h
+------------------------------------------------------------------------------------------
+10.06.2014-002	
+	x- Terminado módulo SensoryCortex (falta verificar su funcionamiento)
+	x- Desarrollado Subsumption
+	x- Modificado módulo Hurby para agregar Subsumption y enlazar los tres módulos <brain>.
+	x- Modificado módulo Motor Cortex para recibir array de acciones
+	x- Desarrollado Happiness y enlazar en [0] de la SSA
+	x- Reorganizadas listas de comportamiento y acción en Subsumption
+	-- Reorganizando objetos internos, gestores de eventos, etc...
+	-- Diseñar comportamientos prioritarios
+	> AÑADIR: Pila de litio (backup) o switch en alcalinas. Base rígida.
+	> ARREGLAR: Oreja derecha, que no se mueve (cable que va de placa al servo)
+	> EN_PAUSA: Evaluar altavoz, colocación de pilas y sensor de presencia
+	> EN_PAUSA: Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	TIEMPO TOTAL aprox: 56h
+------------------------------------------------------------------------------------------
+10.06.2014-001	
+	x- Terminado módulo SensoryCortex (falta verificar su funcionamiento)
+	x- Desarrollado Subsumption
+	x- Modificado módulo Hurby para agregar Subsumption y enlazar los tres módulos <brain>.
+	x- Modificado módulo Motor Cortex para recibir array de acciones
+	x- Desarrollado Happiness y enlazar en [0] de la SSA
+	-- Reorganizar listas de comportamiento y acción en Subsumption
+	-- Reorganizar objetos internos, gestores de eventos, etc...
+	-- Diseñar comportamientos prioritarios
+	> AÑADIR: Pila de litio (backup) o switch en alcalinas. Base rígida.
+	> ARREGLAR: Oreja derecha, que no se mueve (cable que va de placa al servo)
+	> EN_PAUSA: Evaluar altavoz, colocación de pilas y sensor de presencia
+	> EN_PAUSA: Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	TIEMPO TOTAL aprox: 55h
+------------------------------------------------------------------------------------------
+09.06.2014-002	
+	x- Terminado módulo SensoryCortex (falta verificar su funcionamiento)
+	x- Desarrollado Subsumption
+	-- Modificar módulo Hurby para agregar Subsumption y enlazar los tres módulos <brain>.
+	-- Modificar módulo Motor Cortex para recibir array de acciones
+	-- Desarrollar Happiness y enlazar en [0] de la SSA
+	-- Reorganizar objetos internos, gestores de eventos, etc...
+	-- Diseñar comportamientos prioritarios
+	> AÑADIR: Pila de litio (backup) o switch en alcalinas. Base rígida.
+	> ARREGLAR: Oreja derecha, que no se mueve (cable que va de placa al servo)
+	> EN_PAUSA: Evaluar altavoz, colocación de pilas y sensor de presencia
+	> EN_PAUSA: Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	TIEMPO TOTAL aprox: 53h
+------------------------------------------------------------------------------------------
+05.06.2014-004	
+	> TODO:		
+		x Crear código para testear MotorCortex
+		x Creado y testado código FuzzyIO8
+		- Arreglar oreja derecha (no se mueve)
+		x Incluido FuzzyIO8
+		- Crear estado Happiness::FuzzyIO8
+		- Definir entradas y procesar eventos (RTC)
+		- Incluir y testear módulo de backup (pila de litio en vb, diodo d3) + lowpower
+		- Iniciar Hurby con BB-LevelZero
+		- Borrar todo el código inicial de Hurby.cpp|h que ya se haga en MotorCortex y Happiness
+		- Añadir Level-1 y testear
+		- Añadir Level-2 y testear
+		- Añadir Level-3 + Voice...
+		- Iniciar Hurby completo
+	> EN_PAUSA: Evaluar altavoz, colocación de pilas y sensor de presencia
+	> EN_PAUSA: Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	TIEMPO TOTAL aprox: 50h
+------------------------------------------------------------------------------------------
+05.06.2014-003	
+	> TODO:		
+		x Crear código para testear MotorCortex
+		x Creado código FuzzyIO8 (testeando)
+		- Arreglar oreja derecha (no se mueve)
+		- Incluir FuzzyIO8
+		- Crear estado Happiness::FuzzyIO8
+		- Definir entradas y procesar eventos (RTC)
+		- Incluir y testear módulo de backup (pila de litio en vb, diodo d3) + lowpower
+		- Iniciar Hurby con BB-LevelZero
+		- Borrar todo el código inicial de Hurby.cpp|h que ya se haga en MotorCortex y Happiness
+		- Añadir Level-1 y testear
+		- Añadir Level-2 y testear
+		- Añadir Level-3 + Voice...
+		- Iniciar Hurby completo
+	> EN_PAUSA: Evaluar altavoz, colocación de pilas y sensor de presencia
+	> EN_PAUSA: Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	TIEMPO TOTAL aprox: 49h
+------------------------------------------------------------------------------------------
+05.06.2014-002	
+	> TODO:		
+		x Crear código para testear MotorCortex
+		x Creado código FuzzyIO8 (testeando)
+		- Arreglar oreja derecha (no se mueve)
+		- Incluir FuzzyIO8
+		- Crear estado Happiness::FuzzyIO8
+		- Definir entradas y procesar eventos (RTC)
+		- Incluir y testear módulo de backup (pila de litio en vb, diodo d3) + lowpower
+		- Iniciar Hurby con BB-LevelZero
+		- Borrar todo el código inicial de Hurby.cpp|h que ya se haga en MotorCortex y Happiness
+		- Añadir Level-1 y testear
+		- Añadir Level-2 y testear
+		- Añadir Level-3 + Voice...
+		- Iniciar Hurby completo
+	> EN_PAUSA: Evaluar altavoz, colocación de pilas y sensor de presencia
+	> EN_PAUSA: Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	TIEMPO TOTAL aprox: 47h
+------------------------------------------------------------------------------------------
+05.06.2014-001	
+	> Creando FuzzyIO8
+	> TODO:		
+		x Crear código para testear MotorCortex
+		- Arreglar oreja derecha (no se mueve)
+		- Incluir FuzzyIO8
+		- Crear estado Happiness::FuzzyIO8
+		- Definir entradas y procesar eventos (RTC)
+		- Incluir y testear módulo de backup (pila de litio en vb, diodo d3) + lowpower
+		- Iniciar Hurby con BB-LevelZero
+		- Borrar todo el código inicial de Hurby.cpp|h que ya se haga en MotorCortex y Happiness
+		- Añadir Level-1 y testear
+		- Añadir Level-2 y testear
+		- Añadir Level-3 + Voice...
+		- Iniciar Hurby completo
+	> EN_PAUSA: Evaluar altavoz, colocación de pilas y sensor de presencia
+	> EN_PAUSA: Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	TIEMPO TOTAL aprox: 44h
+------------------------------------------------------------------------------------------
+30.05.2014-001	
+	> TODO:
+		x Crear código para testear MotorCortex
+		- Arreglar oreja derecha (no se mueve)
+		- Incluir FuzzyIO8
+		- Crear estado Happiness::FuzzyIO8
+		- Definir entradas y procesar eventos (RTC)
+		- Incluir y testear módulo de backup (pila de litio en vb, diodo d3) + lowpower
+		- Iniciar Hurby con BB-LevelZero
+		- Borrar todo el código inicial de Hurby.cpp|h que ya se haga en MotorCortex y Happiness
+		- Añadir Level-1 y testear
+		- Añadir Level-2 y testear
+		- Añadir Level-3 + Voice...
+		- Iniciar Hurby completo
+	> EN_PAUSA: Evaluar altavoz, colocación de pilas y sensor de presencia
+	> EN_PAUSA: Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	TIEMPO TOTAL aprox: 44h
+------------------------------------------------------------------------------------------
+29.05.2014-001	
+	> TODO:
+		- Crear código para testear MotorCortex
+		- Incluir FuzzyIO8
+		- Crear estado Happiness::FuzzyIO8
+		- Definir entradas y procesar eventos (RTC)
+		- Incluir y testear módulo de backup (pila de litio en vb, diodo d3) + lowpower
+		- Iniciar Hurby con BB-LevelZero
+		- Añadir Level-1 y testear
+		- Añadir Level-2 y testear
+		- Añadir Level-3 + Voice...
+		- Iniciar Hurby completo
+	> EN_PAUSA: Evaluar altavoz, colocación de pilas y sensor de presencia
+	> EN_PAUSA: Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	x Leo posición absoluta del ojo
+	TIEMPO TOTAL aprox: 43h
+------------------------------------------------------------------------------------------
+28.05.2014-001	
+	> Desarrollando módulo MotorCortex. Falta lectura de posiciones absolutas.
+	x Movimiento de los ojos, orejas y pies codificados.
+	> EN_PAUSA: Evaluar altavoz, colocación de pilas y sensor de presencia
+	> EN_PAUSA: Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	TIEMPO TOTAL aprox: 42h
+------------------------------------------------------------------------------------------
+22.05.2014-002	
+	> Desarrollando módulo MotorCortex
+	x Movimiento del ojo codificado. Falta el resto de actuadores.
+	> EN_PAUSA: Evaluar altavoz, colocación de pilas y sensor de presencia
+	> EN_PAUSA: Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	TIEMPO TOTAL aprox: 41h
+------------------------------------------------------------------------------------------
+22.05.2014-001	
+	> Desarrollando módulo MotorCortex
+	> EN_PAUSA: Evaluar altavoz, colocación de pilas y sensor de presencia
+	> EN_PAUSA: Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	TIEMPO TOTAL aprox: 41h
+------------------------------------------------------------------------------------------
+14.05.2014-001	
+	> Evaluar altavoz, colocación de pilas y sensor de presencia
+	> Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	x Cableado EasyVR. Bridge de test desarrollado.
+	TIEMPO TOTAL aprox: 40h
+------------------------------------------------------------------------------------------
+08.05.2014-002	
+	> Cablear EasyVR y evaluar altavoz, colocación de pilas y sensor de presencia
+	> Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	x Movimiento de boca verificado. Aumento velocidad de la boca.
+	TIEMPO TOTAL aprox: 39h
+------------------------------------------------------------------------------------------
+08.05.2014-001
+	> Listo para probar movimiento de boca y cablear servo.
+	> Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	> Cablear EasyVR y evaluar altavoz, colocación de pilas y sensor de presencia
+	x Terminado movimiento de boca
+	x Creando boca
+	TIEMPO TOTAL aprox: 39h
+------------------------------------------------------------------------------------------
+07.05.2014-001
+	> Probar movimiento de boca y cablear servo.
+	> Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	> Cablear EasyVR y evaluar altavoz, colocación de pilas y sensor de presencia
+	x Terminado movimiento de boca
+	x Creando boca
+	TIEMPO TOTAL aprox: 39h
+------------------------------------------------------------------------------------------
+06.05.2014-001
+	> Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	> Cablear EasyVR y evaluar altavoz, colocación de pilas, servo en la boca y sensor de presencia
+	x Realizando código de movimiento de boca
+	x Creando boca
+	TIEMPO TOTAL aprox: 38h
+------------------------------------------------------------------------------------------
+30.04.2014-001
+	> Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	> Cablear EasyVR y evaluar altavoz, colocación de pilas, servo en la boca y sensor de presencia
+	x Hecho diagrama general de comportamiento para ver cúando entra y sale de los
+	  diferentes estados, para tener un control sencillo.
+	x Verificado movimiento completo en estados de miedo, enfado y cosquillas
+	x Hecho comportamiento de sueño
+	x Verificado movimiento completo en estado de sueño	
+	TIEMPO TOTAL aprox: 37h
+------------------------------------------------------------------------------------------
+29.04.2014-001
+	> Hacer un diagrama general de comportamiento para ver cúando entra y sale de los
+	  diferentes estados, para tener un control sencillo.
+	> Verificar movimiento completo en estados de miedo, enfado y cosquillas
+	> Falta desarrollar comportamiento de sueño
+	> Verificar movimiento completo en estado de sueño	
+	> Falta verificar gyro. Se cuelga al escribir en el puerto I2C. Repasar y añadir
+	  código de gestión.
+	> Cablear EasyVR y evaluar detector de presencia
+	x Gyro desactivado
+	x Chequeado lógica de comportamiento de enfado y cosquilla.
+	TIEMPO TOTAL aprox: 36h
+------------------------------------------------------------------------------------------
+24.04.2014-001
+	> Cablear EasyVR y evaluar detector de presencia
+	> Faltan comportamientos de sueño
+	> Verificar estado de miedo y cosquillas
+	> Añadir código de gestión del gyro.
+	> Verificar sensores touch y gyro y tratar de aumentar el ciclo de refresco a unos
+	  100ms (ahora 10ms) o ver si se puede por INT.
+	x Añadido comportamiento de enfado y cosquilla
+	TIEMPO TOTAL aprox: 35h
+------------------------------------------------------------------------------------------
+16.04.2014-001
+	> Cablear EasyVR y evaluar detector de presencia
+	> Faltan comportamientos de enfado y sueño
+	> Verificar estado de miedo.
+	> Añadir código de gestión del gyro.
+	> Verificar sensores touch y gyro y tratar de aumentar el ciclo de refresco a unos
+	  100ms (ahora 10ms) o ver si se puede por INT.
+	x Añadido código de gestión de los sensores touch.  
+	x Cableados sensores táctiles
+	TIEMPO TOTAL aprox: 34h
+------------------------------------------------------------------------------------------
+15.04.2014-001
+	> Modificaciones hardware:
+		x - Hay que cambiar el servo lfoot que parece dañado.
+		x - Cambiar cd_left(p9) ---> p11
+		x - Cambiar rst_left(p10) ---> p12
+		x - Conectar giroscopio en I2C (p9,p10)
+		x - Colocar sensores de tacto en cabeza y tripa
+		x - Colocar sensores de tacto en orejas
+		7 - Evaluar detector de presencia
+		8 - Cablear sensores táctiles
+	> Faltan comportamientos de enfado y sueño
+	> Verificando fallo en estado de miedo.
+	> Reducir ciclo de lectura del gyro (ahora 10ms), tratar de ir a 100ms o similar
+	x Añado código del GyroDriver L3G4200D. 
+	TIEMPO TOTAL aprox: 33h
+------------------------------------------------------------------------------------------
+10.04.2014-002
+	> Modificaciones hardware:
+		1 - Hay que cambiar el servo lfoot que parece dañado.
+		2 - Cambiar cd_left(p9) ---> p11
+		3 - Cambiar rst_left(p10) ---> p12
+		4 - Colocar sensores de tacto en cabeza y tripa
+		5 - Colocar sensores de tacto en orejas y rabo
+		6 - Conectar giroscopio en I2C (p9,p10)
+		7 - Evaluar detector de presencia
+	> Faltan comportamientos de enfado y sueño
+	> Verificando fallo en estado de miedo.
+	x Modifico movimientos de 1 paso para que genere 2 pasos.
+	TIEMPO TOTAL aprox: 32h
+------------------------------------------------------------------------------------------
+10.04.2014-001
+	> Hay que cambiar el servo lfoot que parece dañado.
+	> Faltan comportamientos de enfado y sueño
+	> Verificando fallo en estado de miedo.
+	x Verifico estado happy/unhappy.
+	TIEMPO TOTAL aprox: 32h
+------------------------------------------------------------------------------------------
+09.04.2014-001
+	> Hay que cambiar el servo lfoot que parece dañado.
+	> Faltan comportamientos de enfado y sueño
+	x Verifico baile.
+	TIEMPO TOTAL aprox: 31h
+------------------------------------------------------------------------------------------
+08.04.2014-003
+	> Hay que cambiar el servo lfoot que parece dañado.
+	> Probar baile.
+	> Faltan comportamientos de enfado y sueño
+	x Añadir código para otros comportamientos: alegría, tristeza, miedo.
+	x Añado movimientos porcentuales para cubrir todo el rango de los servos, en lugar de
+	  mover de un extremo a otro.
+	TIEMPO TOTAL aprox: 31h
+------------------------------------------------------------------------------------------
+08.04.2014-002
+	> Hay que cambiar el servo lfoot que parece dañado.
+	> Probar baile.
+	> Añadir código para otros comportamientos: alegría, tristeza, miedo, enfado, sueño
+	x Añado código para poder realizar la acción de baile, así como su test case.
+	x Limito los movimientos rápidos entre 0.25 - 0.75 para evitar que caiga. Probar!
+	TIEMPO TOTAL aprox: 30h
+------------------------------------------------------------------------------------------
+08.04.2014-001
+	> Hay que limitar el rango back,front para que no se caiga.
+	> Hay que cambiar el servo lfoot que parece dañado.
+	x Moviento de pies OK!
+	TIEMPO TOTAL aprox: 28h
+------------------------------------------------------------------------------------------
+07.04.2014-002
+	> Realizando movimientos combinados a izda, dcha, atrás y adelante.
+	x Moviento de pies OK!
+	TIEMPO TOTAL aprox: 27h
+------------------------------------------------------------------------------------------
+07.04.2014-001
+	> Realizando pruebas de movimiento de servos.
+	x Montados cables en placa de adaptación mbed para poder conectar los servos y proporcionar
+	  6V de pila.
+	x Calibrados los servos con el software descargado <ServoProgram>
+	x Realizado los tests de los servos : orejas y pies.
+	TIEMPO TOTAL aprox: 27h
+------------------------------------------------------------------------------------------
+03.04.2014-002
+	> Montar cables en placa de adaptación mbed para poder conectar los servos y proporcionar
+	  6V de pila.
+	> Calibrar los servos con el software descargado <ServoProgram>
+	> Realizar los tests de los servos : orejas y pies.
+	x Realizado test de movimiento de los ojos.
+	x Ajustes en el posicionamiento ocular (Eye::Move) para llegar a los bordes.
+	TIEMPO TOTAL aprox: 26h
+------------------------------------------------------------------------------------------
+03.04.2014-001
+	> Realizar test de movimiento de los ojos.
+	> Montar cables en placa de adaptación mbed para poder conectar los servos y proporcionar
+	  6V de pila.
+	> Calibrar los servos con el software descargado <ServoProgram>
+	> Realizar los tests de los servos : orejas y pies.
+	x Añado código relativo a las orejas y los pies.
+	x Insertado código Servo.
+	TIEMPO TOTAL aprox: 25h
+------------------------------------------------------------------------------------------
+02.04.2014-001
+	> Depurar test ocular.
+	> Insertar código Servo.
+	> Montar placa/calbes para los servos + pilas y realizar pruebas de movimiento.
+	x Añado código de test para realizar un recorrido por el globo ocular, a la vez que parpadea
+	  y cambia de ojos.
+	x Añado todo lo necesario para poder mover los ojos y a la vez parpadear tras el movimiento.
+	TIEMPO TOTAL aprox: 20h
+------------------------------------------------------------------------------------------
+01.04.2014-001
+	> Modificar el funcionamiento de "main" para realizar un movimiento de los ojos por
+	  todas las posiciones.
+	x Añadiendo movimientos por todo el ojo, así como las callbacks de notificación tras 
+	  finalizar el movimiento y cada vez que finaliza un ciclo de parpadeo.
+	TIEMPO TOTAL aprox: 17h
+------------------------------------------------------------------------------------------
+21.03.2014-001
+	> Realizar movimientos y animaciones
+	x Implementados todos los ojos
+	TIEMPO TOTAL aprox: 16h
+------------------------------------------------------------------------------------------
+20.03.2014-001
+	> Probar el movimiento por la pantalla.
+	x Ya funcionan los ojos y el parpadeo
+	TIEMPO TOTAL aprox: 16h
+------------------------------------------------------------------------------------------
+19.03.2014-003
+	x Proyecto ya se puede depurar
+	TIEMPO TOTAL aprox: 15h
+------------------------------------------------------------------------------------------
+19.03.2014-002
+	x No funciona el modo depuración, pero puedo loggear por el puerto USB-Serial.
+	x Crear cable de conexión mbed->HurbyEyes
+	x Crear placa base mbed con conectores
+	x Montado ojo derecho
+	x Módulo Hurby creado con subsistema HurbyEyes completo (depurado con target debug)
+	TIEMPO TOTAL aprox: 14h
+------------------------------------------------------------------------------------------
+19.03.2014-001
+	> Intentando depurar en placa
+	x Crear cable de conexión mbed->HurbyEyes
+	x Crear placa base mbed con conectores
+	x Montado ojo derecho
+	x Módulo Hurby creado con subsistema HurbyEyes completo (depurado con target debug)
+	TIEMPO TOTAL aprox: 12h
+------------------------------------------------------------------------------------------
+18.03.2014-003
+	> Crear cable de conexión mbed->HurbyEyes
+	> Crear placa base mbed con conectores
+	x Montado ojo derecho
+	x Módulo Hurby creado con subsistema HurbyEyes completo (depurado con target debug)
+	TIEMPO TOTAL aprox: 11h
+------------------------------------------------------------------------------------------
+18.03.2014-002
+	> Montar ojo derecho
+	> Crear cable de conexión mbed->HurbyEyes
+	> Crear placa base mbed con conectores
+	x Módulo Hurby creado con subsistema HurbyEyes completo (a falta de depurar)
+	TIEMPO TOTAL aprox: 10h
+------------------------------------------------------------------------------------------
+18.03.2014-001
+	x Añado módulo drv_lcd
+	TIEMPO TOTAL aprox: 6h
+------------------------------------------------------------------------------------------
+17.03.2014-002
+	x Continúo con la programación de los ojos.
+	TIEMPO TOTAL aprox: 5h
+------------------------------------------------------------------------------------------
+17.03.2014-001
+	x Inicio programación de los ojos.
+	TIEMPO TOTAL aprox: 5h30m
+------------------------------------------------------------------------------------------
